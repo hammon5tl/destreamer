@@ -1,5 +1,5 @@
 import path from 'path';
-import puppeteer from 'puppeteer';
+import * as puppeteer from 'puppeteer';
 
 
 // Thanks pkg-puppeteer [ cleaned up version :) ]
